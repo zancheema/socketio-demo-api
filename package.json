@@ -1,0 +1,27 @@
+{
+  "name": "socketio-demo-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node ./src/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zancheema/socketio-demo-api.git"
+  },
+  "keywords": [
+    "socket.io",
+    "WebSockets"
+  ],
+  "author": "Zain Cheema",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zancheema/socketio-demo-api/issues"
+  },
+  "homepage": "https://github.com/zancheema/socketio-demo-api#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^2.2.0"
+  }
+}
